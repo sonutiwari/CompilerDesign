@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1487161294 source:c:\users\ankor\documents\leftrecursion\lrpurge.cpp
+	<iosfwd>
+	<stdlib.h>
+	<sstream>
+	<iostream>
+	<cstring>
+	<vector>
+	<unordered_map>
+	<fstream>
+	"LRPurge.h"
+	"grammer.h"
+
+1488421510 c:\users\ankor\documents\leftrecursion\lrpurge.h
+	"readGrammer.h"
+
+1488421662 c:\users\ankor\documents\leftrecursion\readgrammer.h
+	<stdio.h>
+	<sstream>
+
+1487161038 c:\users\ankor\documents\leftrecursion\grammer.h
+
+1487161709 source:c:\users\ankor\documents\leftrecursion\main.cpp
+	<iostream>
+	"readGrammer.h"
+	"LRPurge.h"
+
+1488421642 source:c:\users\ankor\documents\leftrecursion\readgrammer.cpp
+	<bits/stdc++.h>
+	"readGrammer.h"
+
+1488422008 source:c:\users\ankor\documents\compilerdesign\leftrecursion\lrpurge.cpp
+	<bits/stdc++.h>
+	"LRPurge.h"
+	"grammer.h"
+
+1488421510 c:\users\ankor\documents\compilerdesign\leftrecursion\lrpurge.h
+	"readGrammer.h"
+
+1488421662 c:\users\ankor\documents\compilerdesign\leftrecursion\readgrammer.h
+	<stdio.h>
+	<sstream>
+
+1487161038 c:\users\ankor\documents\compilerdesign\leftrecursion\grammer.h
+
+1488421642 source:c:\users\ankor\documents\compilerdesign\leftrecursion\readgrammer.cpp
+	<bits/stdc++.h>
+	"readGrammer.h"
+
+1488422046 source:c:\users\ankor\documents\compilerdesign\leftrecursion\main.cpp
+	<iostream>
+	"readGrammer.h"
+	"LRPurge.h"
+

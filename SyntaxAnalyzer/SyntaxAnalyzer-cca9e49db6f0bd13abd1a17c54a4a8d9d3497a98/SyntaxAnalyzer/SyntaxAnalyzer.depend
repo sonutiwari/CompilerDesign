@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1488421019 source:c:\users\ankor\documents\compilerdesign\syntaxanalyzer\syntaxanalyzer-cca9e49db6f0bd13abd1a17c54a4a8d9d3497a98\syntaxanalyzer\ll1grammarconversiontool.cpp
+	"stdafx.h"
+	"LL1GrammarConversionTool.h"
+
+1488421019 c:\users\ankor\documents\compilerdesign\syntaxanalyzer\syntaxanalyzer-cca9e49db6f0bd13abd1a17c54a4a8d9d3497a98\syntaxanalyzer\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+
+1488421019 c:\users\ankor\documents\compilerdesign\syntaxanalyzer\syntaxanalyzer-cca9e49db6f0bd13abd1a17c54a4a8d9d3497a98\syntaxanalyzer\targetver.h
+	<SDKDDKVer.h>
+
+1488421019 c:\users\ankor\documents\compilerdesign\syntaxanalyzer\syntaxanalyzer-cca9e49db6f0bd13abd1a17c54a4a8d9d3497a98\syntaxanalyzer\ll1grammarconversiontool.h
+	"Symbol.h"
+	<map>
+	<list>
+
+1488421019 c:\users\ankor\documents\compilerdesign\syntaxanalyzer\syntaxanalyzer-cca9e49db6f0bd13abd1a17c54a4a8d9d3497a98\syntaxanalyzer\symbol.h
+	<string.h>
+	<string>
+
+1488421019 source:c:\users\ankor\documents\compilerdesign\syntaxanalyzer\syntaxanalyzer-cca9e49db6f0bd13abd1a17c54a4a8d9d3497a98\syntaxanalyzer\stdafx.cpp
+	"stdafx.h"
+
+1488421019 source:c:\users\ankor\documents\compilerdesign\syntaxanalyzer\syntaxanalyzer-cca9e49db6f0bd13abd1a17c54a4a8d9d3497a98\syntaxanalyzer\symbol.cpp
+	"stdafx.h"
+	"Symbol.h"
+

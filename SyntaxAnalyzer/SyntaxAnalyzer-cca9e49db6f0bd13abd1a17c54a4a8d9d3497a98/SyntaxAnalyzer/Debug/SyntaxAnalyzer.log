@@ -1,0 +1,32 @@
+﻿Build started 12-Apr-15 5:44:29 PM.
+     1>Project "C:\Users\OmarElfaroukAhmed\Google Drive\SyntaxAnalyzer\SyntaxAnalyzer\SyntaxAnalyzer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SyntaxAnalyzer.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SyntaxAnalyzer.cpp
+         SyntaxAnalyzer.cpp
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(45): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(49): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(83): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(101): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(122): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(123): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(136): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(138): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(166): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(181): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(182): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(265): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\omarelfaroukahmed\google drive\syntaxanalyzer\syntaxanalyzer\syntaxanalyzer.cpp(274): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\OmarElfaroukAhmed\Google Drive\SyntaxAnalyzer\Debug\SyntaxAnalyzer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\OmarElfaroukAhmed\Google Drive\SyntaxAnalyzer\Debug\SyntaxAnalyzer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\OmarElfaroukAhmed\Google Drive\SyntaxAnalyzer\Debug\SyntaxAnalyzer.lib" /MACHINE:X86 Debug\LL1GrammarConversionTool.obj
+         Debug\stdafx.obj
+         Debug\Symbol.obj
+         Debug\SyntaxAnalyzer.obj
+         SyntaxAnalyzer.vcxproj -> C:\Users\OmarElfaroukAhmed\Google Drive\SyntaxAnalyzer\Debug\SyntaxAnalyzer.exe
+     1>Done Building Project "C:\Users\OmarElfaroukAhmed\Google Drive\SyntaxAnalyzer\SyntaxAnalyzer\SyntaxAnalyzer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.67
